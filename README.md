@@ -1,11 +1,13 @@
 # flappy-bird
 
+> A flappy bird game bases on Vue 2
+
 The repo forks from [woxixiulayin/vflappybird](https://github.com/woxixiulayin/vflappybird) which based on Vue 1.0.
 
 The main rewrited code is from:
 
-- New lifecycle function
 - Strictly One-Way Data Flow
+- New lifecycle function
 
 ## Online Demo
 
@@ -30,3 +32,7 @@ yarn build
 ```
 yarn lint
 ```
+
+## LICENSE
+
+The repo is under the `GPL 3.0` open source license.
